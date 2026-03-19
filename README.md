@@ -18,11 +18,23 @@ The architectural foundation of your product. This module allows for a hierarchi
 ### 2. Gantt Chart
 An automated, dynamic timeline for tracking **milestones, dependencies, and high-level roadmaps**. It translates iterative Sprint progress into a visual format easily understood by executive stakeholders.
 
-### 3. Stakeholder Engagement Assessment
+### 3. Prioritization Matrix
+A decision-making framework for **Features**. It allows the team to weigh the value of a feature against the effort required, ensuring the most impactful work is tackled first.
+
+### 4. MoSCoW Analysis
+A dedicated sheet for categorizing features into **Must have, Should have, Could have, and Won't have**. This provides clarity for the Product Owner when defining MVP (Minimum Viable Product) boundaries.
+
+### 5. Stakeholder Engagement Assessment
 A strategic matrix designed to analyze stakeholder **influence and interest**. This tool empowers the Product Owner to manage expectations, plan communications, and navigate organizational influence effectively.
 
-### 4. Budget Tracker
-A dedicated financial module for monitoring the **project burn rate**. It tracks Sprint costs and resource allocation, ensuring that the project remains financially viable and aligned with corporate fiscal constraints.
+### 6. Stakeholder Map
+An advanced visualization tool focusing on the **"Level of Power"** and **"Impact of Change"**. This helps in identifying key players who require high-touch engagement during organizational transitions.
+
+### 7. RACI - Resource Assignment Matrix
+A governance module that defines **who does what** for each feature. It clarifies roles by assigning responsibility (Responsible, Accountable, Consulted, Informed), eliminating ambiguity in cross-functional teams.
+
+### 8. Project Budget (Budget vs. Actual)
+A rigorous financial tracking module. It compares **Planned Budget vs. Actual Expenses** in real-time, providing immediate visibility into variances and ensuring the project remains within its approved financial parameters.
 
 ---
 
