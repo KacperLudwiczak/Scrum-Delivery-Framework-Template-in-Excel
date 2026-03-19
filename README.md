@@ -47,7 +47,13 @@ A rigorous financial tracking module. It compares **Planned Budget vs. Actual Ex
 ---
 ![screenshot](Screens/Gantt_Chart.png)
 ---
+![screenshot](Screens/Prioritization_Matrix.png)
+---
+![screenshot](Screens/MoSCoW.png)
+---
 ![screenshot](Screens/Stakeholder_Assessmet.png)
+---
+![screenshot](Screens/Stakeholder_Map.png)
 ---
 ![screenshot](Screens/RACI.png)
 ---
